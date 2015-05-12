@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Credencys Solutions PVT. LTD.
+Contributors: Makadiya kuldip
 Tags: franchise, admin, franchise manager, ajax
 Requires at least: 3.4
 Tested up to: 4.0.1
