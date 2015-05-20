@@ -4,7 +4,8 @@
   Plugin URI: http://makadiyakuldip.wordpress.com/
   Version: 1.0
   Author: Kuldip Makadiya
-  Author URI: http://makadiyakuldip.wordpress.com/
+  Author URI: http://www.gopiplus.com/work/2011/11/04/wordpress-plugin-image-slider-with-description/
+  Donate link: http://www.gopiplus.com/work/2011/11/04/wordpress-plugin-image-slider-with-description/
   Description: Franchise Manager allow to display list of franchise with franchise gallery.
   License: GNU General Public License v2.0 or later
   Copyright 2015 kuldip makadiya
