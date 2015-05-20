@@ -1,10 +1,10 @@
 <?php
 /*
   Plugin Name: Franchise Manager
-  Plugin URI: http://www.credencys.com/
+  Plugin URI: http://makadiyakuldip.wordpress.com/
   Version: 1.0
   Author: Kuldip Makadiya
-  Author URI: http://www.credencys.com/
+  Author URI: http://makadiyakuldip.wordpress.com/
   Description: Franchise Manager allow to display list of franchise with franchise gallery.
   License: GNU General Public License v2.0 or later
   Copyright 2015 kuldip makadiya
