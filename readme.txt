@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Makadiya kuldip
-Author URI: http://makadiyakuldip.wordpress.com/
-Plugin URI: https://wordpress.org/plugins/franchise-manager/
+Author URI: http://www.makadiyakuldip.wordpress.com/
+Plugin URI: https://www.wordpress.org/plugins/franchise-manager/
 Tags: franchise, admin, franchise manager, ajax
 Requires at least: 3.4
 Tested up to: 4.0.1
