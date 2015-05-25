@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Makadiya kuldip , Hiren Purohit
+Contributors: Makadiya kuldip
 Author URI: http://www.makadiyakuldip.wordpress.com/
 Plugin URI: https://www.wordpress.org/plugins/franchise-manager/
 Tags: franchise, admin, franchise manager, ajax
